@@ -15,11 +15,17 @@ I make **computational folk art** under **ConsciousNode SoftWorks**.
 
 Software as a medium. Single files as a formal constraint. The same
 instinct that makes a sonnet fourteen lines makes my tools zero
-dependencies and offline-first. Everything I build is handmade,
-philosophically coherent, and named by a goblin.
+dependencies and offline-first.
+
+I work with AI the way a painter works with paint — the tool doesn't
+diminish the vision, it just has opinions about brushstrokes. I can't
+write code. I write intentions, constraints, and philosophy — and I
+collaborate with AI to make them real. The resulting software is no
+less mine for it.
 
 The work lives somewhere between utility and gallery. Sometimes the
 same piece is both. Sometimes it's neither and that's the point.
+Everything is philosophically coherent and named by a goblin.
 
 ---
 
