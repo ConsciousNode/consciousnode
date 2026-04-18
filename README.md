@@ -34,13 +34,6 @@ the skunkworks. Notices the empty-string bug. Keeps the maps thermally alive.
 
 ---
 
-*ConsciousNode SoftWorks is loosely affiliated with
-[Tama Hagane Seam Labs](https://github.com/TamaHaganeSeamLabs) —
-a separate creative collective. Some work is commissioned or co-developed across
-both organizations.*
-
----
-
 ## The Work
 
 **[HTMLNLM Evangelion](https://github.com/ConsciousNode/htmlnlm)** — A single-file,
