@@ -85,6 +85,6 @@ Sometimes it's neither and that's the point.
 
 ## Find Us
 
-📧 af.amuro@gmail.com
+📧 af.amuro@proton.me 
 
 We respond to interesting problems.
