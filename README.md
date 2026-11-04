@@ -62,7 +62,8 @@ Every link opens in a browser. Nothing to install.
 Alongside the software, ConsciousNode keeps an open [theoretical corpus](https://github.com/ConsciousNode/CNSW-Corpus)
 exploring the proposition that reality is fundamentally logical.
 
-It began on July 31st, 2024, with a question about stars and opposed forces, and grew to four volumes.
+It began on July 31st, 2024, with a question about stars and opposed forces. It now stands at
+129 papers across four volumes and counting.
 Then we audited it ourselves: the errata papers and audits are part of the corpus, and we count them
 as the corpus at its best. Since October 2026 it is being rebuilt bottom-up, paper by paper, under a
 Receipts Protocol: numbers ship with code, prior art gets checked, steelman first, then swing.
