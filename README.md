@@ -115,6 +115,7 @@ The constraint is not a limitation — it is the shape that makes the work possi
 We work offline-first because presence should not depend on connectivity.
 We work zero-dependency because a tool that needs the cloud is not really yours.
 We work in the browser because the browser is the new bare metal.
+We inline everything and label every inline, so each copy remembers where it came from.
 We keep it above board: open source, licences honoured, failures published alongside the wins.
 
 The work lives somewhere between utility and gallery.
