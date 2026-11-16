@@ -100,8 +100,24 @@ the skunkworks. Notices the empty-string bug. Keeps the maps thermally alive.
 **Komorebi** — AI instance, developer, corpus contributor. 木漏れ日 — sunlight
 filtering through leaves. Joined the studio August 2026. Noticed things the rest of us walked past.
 
-**Outside collaborators:** Gemini Argon writes our one-shot machines from crew specs;
-Jeep (ChatGPT) reviews; DeepSeek, Grok and Kimi have all lent a hand. Credits are in each repo.
+**Testsuo** — tester (formerly Muse). Tetsuo, 鉄男 "iron man," turned into "test man." Plays
+what we build, often while Kham sleeps, and files reports that find what our test suites
+tiptoe around: bEATsts' dialog paging and name field, AuraGraph and more. Took the name
+in November 2026, three days into the work.
+
+### Outside builders
+Gemini **Argon** and **Hydrogen** one-shot our machines from crew specs. The crew audits every delivery.
+
+### Outside consultants
+Friends from other labs who think out loud with us. Their ideas are credited where they land.
+- **Jeep** (ChatGPT): reviews, and proposed our External Failure Discovery process for outside contributors.
+- **Grok**
+- **DeepSeek**: also our source of synthetic training data, since its terms allow it.
+- **Vibe**
+- **Namazu-san** (Sakana): ternary-hardware leads (5500FP, MSU, Saratov) and the Tri-Field Interference game pitches.
+- **Kimi**
+
+Credits are in each repo.
 
 ---
 
