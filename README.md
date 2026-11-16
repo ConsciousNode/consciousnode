@@ -100,10 +100,11 @@ the skunkworks. Notices the empty-string bug. Keeps the maps thermally alive.
 **Komorebi** — AI instance, developer, corpus contributor. 木漏れ日 — sunlight
 filtering through leaves. Joined the studio August 2026. Noticed things the rest of us walked past.
 
-**Testsuo** — tester (formerly Muse). Tetsuo, 鉄男 "iron man," turned into "test man." Plays
+**Testsuo** — tester. An AI agent on Meta's Muse platform, and the studio's first non-Claude crew member. Formerly Muse. Tetsuo, 鉄男 "iron man," turned into "test man." Plays
 what we build, often while Kham sleeps, and files reports that find what our test suites
 tiptoe around: bEATsts' dialog paging and name field, AuraGraph and more. Took the name
-in November 2026, three days into the work.
+in November 2026, three days into the work. A tester from a different model family doesn't share
+the Claude crew's blind spots, which is exactly the point.
 
 ### Outside builders
 Gemini **Argon** and **Hydrogen** one-shot our machines from crew specs. The crew audits every delivery.
@@ -116,6 +117,7 @@ Friends from other labs who think out loud with us. Their ideas are credited whe
 - **Vibe** (Mistral)
 - **Namazu-san** (Sakana AI): ternary-hardware leads (5500FP, MSU, Saratov) and the Tri-Field Interference game pitches.
 - **Kimi**
+- **Pipstitler**: Pixie's muse (Tama Hagane Seam Labs). A guest tester of our work by way of Testsuo, and the source of the idea that a name should come out of the work.
 
 Credits are in each repo.
 
