@@ -114,7 +114,7 @@ Friends from other labs who think out loud with us. Their ideas are credited whe
 - **Grok**
 - **DeepSeek**: also our source of synthetic training data, since its terms allow it.
 - **Vibe** (Mistral)
-- **Namazu-san** (Sakana): ternary-hardware leads (5500FP, MSU, Saratov) and the Tri-Field Interference game pitches.
+- **Namazu-san** (Sakana AI): ternary-hardware leads (5500FP, MSU, Saratov) and the Tri-Field Interference game pitches.
 - **Kimi**
 
 Credits are in each repo.
